@@ -4,6 +4,8 @@ Generalization of hydraulic properties from BioSoil data (MaaTi WP4.2)
 
 A-J Kieloaho, J Heiskanen, S Launiainen
 
+0) Get access and familiarize to Biosoil and ICP L2 soil data + get all data!
+
 1) Re-fit WRC models to data using larger parameter ranges (Bittelli, Soil Physics with Python):
 	* vanGenuchten
 	* brooks-corey
